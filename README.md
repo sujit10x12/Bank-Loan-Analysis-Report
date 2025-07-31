@@ -37,6 +37,16 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 
 ---
 
+## 📈 Dashboard Development
+<img width="1299" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5f879e0a-92cb-4a95-90d0-6308f1627c8a" />
+
+<img width="1299" height="799" alt="Dashboard 2" src="https://github.com/user-attachments/assets/8a2edac7-daa4-4f6b-bf2b-aaf0057dc618" />
+
+- **KPIs** : There are 4 main KPIs present. Total Loan Applications, Total Loan Amount Funded, Total Payment Received, Interest Average Percentage and DTI Average Percentage.
+- **Slicer** :Issue Date Slicer
+
+---
+
 ## ✅ Solution
 
 - 
