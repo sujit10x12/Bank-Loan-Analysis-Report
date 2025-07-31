@@ -7,7 +7,7 @@
 
 This project helps you track and understand your bank’s loan portfolio. It uses SQL to process raw data and Tableau to turn that into easy-to-read dashboards. Great for lenders, analysts, or anyone interested in loan insights.
 
-> ✅ [Live Dashboard](https://public.tableau.com/shared/C838TXB2R?:display_count=n&:origin=viz_share_link) 
+> ✅ [Live Dashboard](https://public.tableau.com/shared/C838TXB2R?:display_count=n&:origin=viz_share_link)  
 > ✅ And **SQL Queries** here:** [🔗 View SQL queries](queries.sql)
 
 ---
