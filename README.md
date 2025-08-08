@@ -1,4 +1,4 @@
-# 💳 Bank Loan Report using PowerBi and SQL
+# 💳 Bank Loan Report using Tableau and SQL
 <img width="1584" height="396" alt="Bank Loan Analysis" src="https://github.com/user-attachments/assets/5709dce8-07d8-4dd7-a376-54dceb1310b1" />
 
 ---
