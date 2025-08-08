@@ -49,7 +49,63 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 
 ## ✅ Solution
 
-- 
+### 📌 KPIs
+- **Total Loan Applications**: 38,576
+- **Total Loan Amount**: $435.76M
+- **Total Payment Collected**: $473.07M
+- **Average Interest Rate**: 12.05%
+- **Average DTI (Debt-to-Income)**: 13.33%
+
+---
+
+### 🔍 Loan Purpose Distribution
+- **Top Purpose**: Debt Consolidation (18.2K applications)
+- Followed by:
+  - Credit Card: 5K
+  - Other: 3.8K
+  - Home Improvement: 2.9K
+- **Least Common**: Medical (0.7K), Wedding (0.9K)
+
+---
+
+### 🏠 Home Ownership
+- **Renters**: 47.92%
+- **Mortgage Holders**: 44.70%
+- **Homeowners**: 7.38%
+
+---
+
+### 💼 Employment Length
+- Highest: **10+ years** (8.9K applications)
+- Others:
+  - <1 year: 4.6K
+  - 2 years: 4.4K
+  - 3 years: 4.1K
+
+---
+
+### ⏳ Loan Term Preferences
+- **36 months**: 73.2%
+- **60 months**: 26.8%
+
+---
+
+### 💳 Loan Status
+- **Fully Paid**: 87%
+- **Charged Off**: 7.87%
+- **Current**: 5.13%
+
+---
+
+### ✅ Loan Quality
+- **Good Loans**: 86.18%
+- **Bad Loans**: 13.82%
+
+---
+
+
+<img width="936" height="247" alt="Overview" src="https://github.com/user-attachments/assets/c00fcfbc-1fb1-4af8-97d1-deac7b1f88aa" />
+
 
 ---
 
