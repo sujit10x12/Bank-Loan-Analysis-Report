@@ -58,6 +58,26 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 
 ---
 
+### ✅ Loan Quality
+- **Good Loans**: 86.18%
+- **Bad Loans**: 13.82%
+
+---
+
+### 📈  Trend Over Time
+- Funded Amount shows a seasonal pattern—a modest start in January–February, steady growth through spring and summer, and a strong finish peaking in December.
+- Same with Loan applications, starting low in January (~2,332), dipping slightly in February (~2,279), then rising steadily from March (~2,627) through the end of the year, reaching a peak of 4,314 in December
+
+
+---
+
+### 💳 Loan Status
+- **Fully Paid**: 87%
+- **Charged Off**: 7.87%
+- **Current**: 5.13%
+
+---
+
 ### 🔍 Loan Purpose Distribution
 - **Top Purpose**: Debt Consolidation (18.2K applications)
 - Followed by:
@@ -87,19 +107,6 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 ### ⏳ Loan Term Preferences
 - **36 months**: 73.2%
 - **60 months**: 26.8%
-
----
-
-### 💳 Loan Status
-- **Fully Paid**: 87%
-- **Charged Off**: 7.87%
-- **Current**: 5.13%
-
----
-
-### ✅ Loan Quality
-- **Good Loans**: 86.18%
-- **Bad Loans**: 13.82%
 
 ---
 
