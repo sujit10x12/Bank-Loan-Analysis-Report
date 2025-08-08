@@ -49,6 +49,8 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 
 ## ✅ Solution
 
+<img width="936" height="247" alt="Overview" src="https://github.com/user-attachments/assets/c00fcfbc-1fb1-4af8-97d1-deac7b1f88aa" />  
+
 ### 📌 KPIs
 - **Total Loan Applications**: 38,576
 - **Total Loan Amount**: $435.76M
@@ -109,10 +111,3 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 - **60 months**: 26.8%
 
 ---
-
-
-<img width="936" height="247" alt="Overview" src="https://github.com/user-attachments/assets/c00fcfbc-1fb1-4af8-97d1-deac7b1f88aa" />
-
-
----
-
