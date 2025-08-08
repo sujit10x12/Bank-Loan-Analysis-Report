@@ -81,7 +81,7 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 ---
 
 
-### State-Level Breakdown
+### 🌍 State-Level Breakdown
 
  - By Loan funding:
    - California (CA) leads with approximately $78.5M
