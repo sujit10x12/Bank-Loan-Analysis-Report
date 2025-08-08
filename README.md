@@ -80,6 +80,22 @@ Build a comprehensive reporting system to monitor the bank’s loan portfolio pe
 
 ---
 
+
+### State-Level Breakdown
+
+ - By Loan funding:
+   - California (CA) leads with approximately $78.5M
+   - Followed by New York (NY) at $42.1M
+   - Texas (TX) ranks third at around $31.2M
+  
+
+ - By Loan Applications
+   - California (CA - 6,894 applications) has the largest share.
+   - New York (NY) 3,701 applications.
+   - Texas (TX) and Florida (FL) 2,664 and 2,773 respectively.
+
+---
+
 ### 🔍 Loan Purpose Distribution
 - **Top Purpose**: Debt Consolidation (18.2K applications)
 - Followed by:
