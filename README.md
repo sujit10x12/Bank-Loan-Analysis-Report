@@ -1,5 +1,5 @@
 # 💳 Bank Loan Report using PowerBi and SQL
-<img width="1584" height="396" alt="Bank Loan Report" src="https://github.com/user-attachments/assets/ea98042c-82c1-44dc-a932-838718e1d932" />
+<img width="1584" height="396" alt="Bank Loan Analysis" src="https://github.com/user-attachments/assets/5709dce8-07d8-4dd7-a376-54dceb1310b1" />
 
 ---
 
